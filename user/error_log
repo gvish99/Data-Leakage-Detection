@@ -1,0 +1,4 @@
+[06-May-2019 16:05:58 Etc/GMT] PHP Notice:  Undefined index: user_id in /home/capscomt/public_html/pro/dataleakage/function/user_model.php on line 80
+[06-May-2019 16:05:58 Etc/GMT] PHP Notice:  Undefined index: user_id in /home/capscomt/public_html/pro/dataleakage/function/user_model.php on line 80
+[08-May-2019 13:38:59 Etc/GMT] PHP Notice:  Undefined index: usertype in /home/capscomt/public_html/pro/dataleakage/user/distributor_files.php on line 3
+[08-May-2019 14:31:43 Etc/GMT] PHP Notice:  Undefined index: usertype in /home/capscomt/public_html/pro/dataleakage/user/distributor_files.php on line 3
